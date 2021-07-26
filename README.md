@@ -17,7 +17,7 @@ davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm
 
 <h1>Datenträger (USB-Stick) einstecken</h1>
 
-<h1>zu verarbeitende File mit Estlcam CNC-Steuerung öffnen</h1>
+<h1>Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen</h1>
 
 <h1>Nullpunkt anfahren und Achsen 'nullen'</h1>
 
