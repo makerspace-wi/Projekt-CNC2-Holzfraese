@@ -19,6 +19,8 @@ davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm
 <h2>Horizontales einspannen</h2>
 <h2>Vertikales einspannen</h2>
 <img width="400" alt="Box_5" src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg">
+
+<img width="400" alt="Box_7" src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg">
 <h1>Datenträger (USB-Stick) einstecken</h1>
 
 <h1>Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen</h1>
