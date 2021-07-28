@@ -22,6 +22,7 @@ Der Kleincomputer hat seitlich links einen Taster (violette Kennzeichnung) - die
 
 <h1>Werkstück einspannen</h1>
 <h2>Horizontales einspannen</h2>
+Hier Text und Bilder einfügen
 <h2>Vertikales einspannen</h2>
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5">
 <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6">
