@@ -9,6 +9,9 @@ davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm
 Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem Schalter einschalten:
 <br>
 <img width="400" alt="Box_3" src="https://user-images.githubusercontent.com/42463588/127311146-514fe918-c521-48f9-8353-5dd8aeab8ffb.jpg">
+<br><br>
+Der Kleincomputer hat seitlich links einen Taster (violette Kennzeichnung) - diesen bitte drücken, die die rote LED (gelbe Kennzeichnung) dauerhaft brennt, der Computer bootet dann.
+<br><br>
 <img width="400" alt="Box_4" src="https://user-images.githubusercontent.com/42463588/127312749-66ba7e18-2e4a-4112-80ef-cd41b0faa7d3.jpg">
 
 <h1>Freigabe mit RFID Chip</h1>
