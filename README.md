@@ -40,3 +40,4 @@ Hier Text und Bilder einfügen
 ![Rampa](doc/RampaMuffen Einbau.pdf)
 
 <a href="https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/tree/main/doc/RampaMuffen%20Einbau.pdf">CHIP-Homepage</a> 
+[Technik-Team Änderungsvorschlag - aktuell](doc/RampaMuffen%20Einbau.pdf)
