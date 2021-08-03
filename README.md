@@ -54,6 +54,7 @@ Hier Text und Bilder einfügen
 <li>Computer Maus ausschalten</li>  
 <li>Batterie von Fernsteuerung entnehmen</li>
 <li>Steckdosenleiste ausschalten</li>
+<li>CNC zudecken mit grünem Tuch</li>
 </ol>
 <h1>Weiterführende Dokumentationen</h1>
 
