@@ -35,4 +35,4 @@ Hier Text und Bilder einfügen
 <h1>Nullpunkt anfahren und Achsen 'nullen'</h1>
 
 <h1>Z-Nullpunkt automatisch mit Sensor ermitteln</h1>
-![PC_ein_aus](https://user-images.githubusercontent.com/42470750/127992049-702ed350-b75e-4b31-b18e-e80fde485db5.jpg)
+<img src="https://user-images.githubusercontent.com/42470750/127992049-702ed350-b75e-4b31-b18e-e80fde485db5.jpg">
