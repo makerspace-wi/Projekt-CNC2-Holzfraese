@@ -35,4 +35,4 @@ Hier Text und Bilder einfügen
 <h1>Nullpunkt anfahren und Achsen 'nullen'</h1>
 
 <h1>Z-Nullpunkt automatisch mit Sensor ermitteln</h1>
-https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/issues/2#issue-958899908
+
