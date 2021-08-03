@@ -25,6 +25,8 @@ Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<
 Dort dann das Programm 'Estlcam CNC-Steuerung' mit Doppelklick starten.<p>
 Startbildschirm:
 <h1>Datenträger (USB-Stick) einstecken</h1>
+<img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
+
 <h1>Fräsmotor mit Fernsteuerung bewegen und Fräser montieren</h1>
 
 <h1>Werkstück einspannen</h1>
