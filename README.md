@@ -40,6 +40,8 @@ Hier Text und Bilder einfügen
 
 <h1>Z-Nullpunkt automatisch mit Sensor ermitteln</h1>
 
+<h1>Fräse Ausschalten</h1>
+
 <h1>Weiterführende Dokumentationen</h1>
 
 [Rampa Muffen Einbau](doc/RampaMuffen%20Einbau.pdf)
