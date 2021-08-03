@@ -49,6 +49,7 @@ Hier Text und Bilder einfügen
 <ol>
 <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
 <li>Programm Estlcam CNC-Steuerung schließen</li>  
+<li>PC herunterfahren</li>
 <li>Am Zugangsgerät abmelden</li>
 <li>Computer Maus ausschalten</li>  
 <li>Batterie von Fernsteuerung entnehmen</li>
