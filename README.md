@@ -43,8 +43,11 @@ Hier Text und Bilder einfügen
 
 <h1>Fräse runter fahren</h1>
 <ol>
-<li>aaasdf</li>
-<li>aaasdf</li>
+<li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
+<li>Mini-PC an Taster ausschalten</li>
+<li>Am Zugangsgerät abmelden</li>
+<li>Batterie von Maus entnehmen</li>
+<li>Steckdosenleiste ausschalten</li>
 </ol>
 <h1>Weiterführende Dokumentationen</h1>
 
