@@ -20,7 +20,8 @@ Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung b
 
 <h1>Estlcam CNC-Steuerung öffnen</h1>
 Zwischenzeitlich sollte der Mini-PC hochgefahren sein und seinen 'Desktop' zeigen.<br>
-Dort dann das Programm 'Estlcam CNC-Steuerung' mit Doppelklick starten.
+Dort dann das Programm 'Estlcam CNC-Steuerung' mit Doppelklick starten.<p>
+Startbildschirm:
 <h1>Datenträger (USB-Stick) einstecken</h1>
 <h1>Fräsmotor mit Fernsteuerung bewegen und Fräser montieren</h1>
 
