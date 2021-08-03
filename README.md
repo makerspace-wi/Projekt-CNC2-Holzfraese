@@ -15,6 +15,8 @@ Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) 
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
 <h1>Freigabe mit RFID Chip</h1>
+Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglieds möglich.
+Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird.
 
 <h1>Estlcam CNC-Steuerung öffnen</h1>
 
