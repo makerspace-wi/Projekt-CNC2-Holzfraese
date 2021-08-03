@@ -10,7 +10,7 @@ Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem 
 <br>
 <img width="400" alt="Box_3" src="https://user-images.githubusercontent.com/42463588/127311146-514fe918-c521-48f9-8353-5dd8aeab8ffb.jpg">
 <br><br>
-Der Kleincomputer hat seitlich links einen Taster (violette Kennzeichnung) - diesen so lange drücken, bis die rote LED (gelbe Kennzeichnung) dauerhaft brennt, der Computer bootet dann.
+Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) - diesen für 1 sec drücken, bis die rote LED dauerhaft brennt, der Computer bootet dann (Intel erscheint nach einigen sec auf dem Bildschirm).
 <br><br>
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
