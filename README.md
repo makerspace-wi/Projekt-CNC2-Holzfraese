@@ -12,8 +12,7 @@ Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem 
 <br><br>
 Der Kleincomputer hat seitlich links einen Taster (violette Kennzeichnung) - diesen so lange drücken, bis die rote LED (gelbe Kennzeichnung) dauerhaft brennt, der Computer bootet dann.
 <br><br>
-<img width="400" alt="Box_4" src="https://user-images.githubusercontent.com/42463588/127312749-66ba7e18-2e4a-4112-80ef-cd41b0faa7d3.jpg">
-<img src="https://user-images.githubusercontent.com/42470750/127992049-702ed350-b75e-4b31-b18e-e80fde485db5.jpg">
+<img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
 <h1>Freigabe mit RFID Chip</h1>
 
