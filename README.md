@@ -44,6 +44,7 @@ Hier Text und Bilder einfügen
 <h1>Fräse runter fahren</h1>
 <ol>
 <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
+<li>Programm Estlcam CNC-Steuerung schließen</li>  
 <li>Mini-PC an Taster ausschalten</li>
 <li>Am Zugangsgerät abmelden</li>
 <li>Batterie von Maus entnehmen</li>
