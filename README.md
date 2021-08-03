@@ -39,4 +39,4 @@ Hier Text und Bilder einfügen
 <h1>Weiterführende Dokumentationen</h1>
 ![Rampa](doc/RampaMuffen Einbau.pdf)
 
-<a href="https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/tree/main/doc#:~:text=RampaMuffen%20Einbau.pdf">CHIP-Homepage</a> 
+<a href="https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/tree/main/doc/RampaMuffen%20Einbau.pdf">CHIP-Homepage</a> 
