@@ -41,3 +41,5 @@ Hier Text und Bilder einfügen
 [Rampa Muffen Einbau](doc/RampaMuffen%20Einbau.pdf)
 
 [Schaltbilder CNC-Steuerung](doc/CNC_SteuerungGRBL_SSR_V2.pdf)
+
+[Zeichnung Riemenschutz](doc/Riemenschutz%20Zeichnung%20v2.pdf)
