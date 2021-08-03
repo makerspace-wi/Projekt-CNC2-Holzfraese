@@ -43,3 +43,5 @@ Hier Text und Bilder einfügen
 [Schaltbilder CNC-Steuerung](doc/CNC_SteuerungGRBL_SSR_V2.pdf)
 
 [Zeichnung Riemenschutz](doc/Riemenschutz%20Zeichnung%20v2.pdf)
+
+[Schnittwerteberechnungen](doc/schnittwerte.pdf)
