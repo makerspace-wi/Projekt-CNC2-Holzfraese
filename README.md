@@ -13,13 +13,14 @@ Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem 
 Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) - diesen für 1 sec drücken, bis die rote LED dauerhaft brennt, der Computer bootet dann (Intel erscheint nach einigen sec auf dem Bildschirm).
 <br><br>
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
-
+Besonderheit: <b><i>Nicht vergessen die Batterie der Computermaus einzusetzen!</i></b>
 <h1>Freigabe mit RFID Chip</h1>
 Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglieds möglich.
 Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird.
 
 <h1>Estlcam CNC-Steuerung öffnen</h1>
-
+Zwischenzeitlich sollte der Mini-PC hochgefahren sein und seinen 'Desktop' zeigen.<br>
+Dort dann das Programm 'Estlcam CNC-Steuerung' mit Doppelklick starten.
 <h1>Fräsmotor mit Fernsteuerung bewegen und Fräser montieren</h1>
 
 <h1>Werkstück einspannen</h1>
