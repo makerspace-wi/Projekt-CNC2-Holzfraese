@@ -24,6 +24,8 @@ Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<
 <img src="https://user-images.githubusercontent.com/42463588/128076185-05e76ea6-103b-4e6b-ade6-b90337c380f4.JPG" width="200" border = "0" alt="Box_9">
 Dort dann das Programm 'Estlcam CNC-Steuerung' mit Doppelklick starten.<p>
 Startbildschirm:
+
+<img src="https://user-images.githubusercontent.com/42463588/128328089-174bd2f8-ad21-4cdb-ae79-928e339b2ae2.jpg" width="300" border = "0" alt="Box_11">
 <h1>Datenträger (USB-Stick) einstecken</h1>
 <img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
 
