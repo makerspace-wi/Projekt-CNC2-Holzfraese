@@ -87,6 +87,6 @@ Hier Text und Bilder einfügen
 
 ----
 
-![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg "Das ist der Titel")
+![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae "Das ist der Titel")
 
 
