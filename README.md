@@ -86,6 +86,6 @@ Hier Text und Bilder einfügen
 ![Estlcam_Codeanzeige](https://user-images.githubusercontent.com/42463588/128347561-20f2ea40-955c-4661-aede-9a7618008efe.jpg)
 
 
-![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg/200x150 "Das ist der Titel")
+![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg "Das ist der Titel")
 
 
