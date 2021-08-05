@@ -66,3 +66,12 @@ Hier Text und Bilder einfügen
 [Zeichnung Riemenschutz](doc/Riemenschutz%20Zeichnung%20v2.pdf)
 
 [Schnittwerteberechnungen](doc/schnittwerte.pdf)
+
+
+
+![Estlcam_Referenz](https://user-images.githubusercontent.com/42463588/128347373-f42bae82-09c2-4543-b89c-6ba58a9dd95a.jpg)
+![Estlcam_Laengenmessung](https://user-images.githubusercontent.com/42463588/128347411-866d27c1-c036-4ef3-9dc0-52e40e1378d3.jpg)
+![Estlcam_CNC_Code](https://user-images.githubusercontent.com/42463588/128347443-033c6b04-82f4-400e-b7df-23230c7b592d.jpg)
+![Estlcam_Achsen_Pos](https://user-images.githubusercontent.com/42463588/128347475-c0c737aa-9804-471e-a526-4fa95f476b5e.jpg)
+![Estlcam_Kommandozeile](https://user-images.githubusercontent.com/42463588/128347515-6780da44-d2ad-43c4-aca1-5ebfb38f7c5a.jpg)
+![Estlcam_Codeanzeige](https://user-images.githubusercontent.com/42463588/128347561-20f2ea40-955c-4661-aede-9a7618008efe.jpg)
