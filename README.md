@@ -19,10 +19,10 @@ Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglie
 Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird. Bitte auf das Display achten, es könnte hilfreiche Hinweise liefern.
 <img src="https://user-images.githubusercontent.com/42463588/128074604-47986882-cf10-4fdd-9c07-c87742d69098.jpg" width="300" border = "0" alt="Box_8">
 
-<h1>Estlcam's  &nbsp; <i>CNC Controller V11</i>  &nbsp; öffnen</h1>
+<h1>Estlcam's  &nbsp;&nbsp; <i>CNC Controller V11</i>  &nbsp;&nbsp; öffnen</h1>
 Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<br>
 <img src="https://user-images.githubusercontent.com/42463588/128076185-05e76ea6-103b-4e6b-ade6-b90337c380f4.JPG" width="200" border = "0" alt="Box_9">
-Dort dann das Programm '<i>CNC Controller V11</i> mit Doppelklick starten. Du erhältst folgenden Startbildschirm:
+Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick starten. Du erhältst folgenden Startbildschirm:
 <p>
 <img src="https://user-images.githubusercontent.com/42463588/128328089-174bd2f8-ad21-4cdb-ae79-928e339b2ae2.jpg" width="400" border = "0" alt="Box_11">
 <h1>Datenträger (USB-Stick) einstecken</h1>
