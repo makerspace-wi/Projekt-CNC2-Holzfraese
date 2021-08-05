@@ -30,6 +30,9 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 
 <h1>Fräsmotor mit Fernsteuerung bewegen und Fräser montieren</h1>
 
+![IMG_8782](https://user-images.githubusercontent.com/42463588/128348078-18cc95f4-30d9-426b-b58d-b9d952dc05d4.jpg)
+![IMG_8780](https://user-images.githubusercontent.com/42463588/128348125-5d4d9360-1c30-4c4d-b63e-a66c643f0467.jpg)
+
 <h1>Werkstück einspannen</h1>
 <h2>Horizontales einspannen</h2>
 Hier Text und Bilder einfügen
@@ -82,7 +85,5 @@ Hier Text und Bilder einfügen
 
 
 ![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg)
-![IMG_8782](https://user-images.githubusercontent.com/42463588/128348078-18cc95f4-30d9-426b-b58d-b9d952dc05d4.jpg)
-![IMG_8780](https://user-images.githubusercontent.com/42463588/128348125-5d4d9360-1c30-4c4d-b63e-a66c643f0467.jpg)
 
 
