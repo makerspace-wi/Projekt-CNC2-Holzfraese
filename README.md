@@ -75,3 +75,12 @@ Hier Text und Bilder einfügen
 ![Estlcam_Achsen_Pos](https://user-images.githubusercontent.com/42463588/128347475-c0c737aa-9804-471e-a526-4fa95f476b5e.jpg)
 ![Estlcam_Kommandozeile](https://user-images.githubusercontent.com/42463588/128347515-6780da44-d2ad-43c4-aca1-5ebfb38f7c5a.jpg)
 ![Estlcam_Codeanzeige](https://user-images.githubusercontent.com/42463588/128347561-20f2ea40-955c-4661-aede-9a7618008efe.jpg)
+
+![IMG_8786](https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg)
+![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg)
+![IMG_8782](https://user-images.githubusercontent.com/42463588/128348078-18cc95f4-30d9-426b-b58d-b9d952dc05d4.jpg)
+![IMG_8780](https://user-images.githubusercontent.com/42463588/128348125-5d4d9360-1c30-4c4d-b63e-a66c643f0467.jpg)
+<img width="512" alt="Bildschirmfoto 2021-08-03 um 19 41 06" src="https://user-images.githubusercontent.com/42463588/128348234-1c877c6b-0459-4ba3-af51-481c5ebb7b43.png">
+<img width="512" alt="Bildschirmfoto 2021-08-03 um 19 40 59" src="https://user-images.githubusercontent.com/42463588/128348268-16e7ea15-e996-4bef-bb09-265867835e81.png">
+<img width="512" alt="Bildschirmfoto 2021-08-03 um 19 40 27" src="https://user-images.githubusercontent.com/42463588/128348315-10720b31-07db-4886-a029-c2f4f445cf3f.png">
+
