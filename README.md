@@ -14,6 +14,7 @@ Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem 
 Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) - diesen für 1 sec drücken, bis die rote LED dauerhaft brennt, der Computer bootet dann (Intel erscheint nach einigen sec auf dem Bildschirm).
 <br><br>
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
+
 <b>Besonderheit: <i>Nicht vergessen die Batterie in die Fernsteuerung einzusetzen und den silbernen Button in der Mitte zu drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.</i></b>
 <h1>Freigabe mit RFID Chip</h1>
 Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglieds möglich.
