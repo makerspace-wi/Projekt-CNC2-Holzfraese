@@ -15,7 +15,7 @@ Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) 
 <br><br>
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
-__Besonderheit: Nicht vergessen die Batterie in die Fernsteuerung einzusetzen und den silbernen Button in der Mitte zu drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.__
+__Achtung: Nicht vergessen die Fernsteuerung einzuschalten und die große ENTER-Taste drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.__
 # Freigabe mit RFID Chip #
 Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglieds möglich.
 Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird. Bitte auf das Display achten, es könnte hilfreiche Hinweise liefern.
@@ -61,7 +61,7 @@ Hier Text und Bilder einfügen
 <li>PC herunterfahren</li>
 <li>Am Zugangsgerät abmelden</li>
 <li>Computer Maus ausschalten</li>  
-<li>Batterie von Fernsteuerung entnehmen</li>
+<li>Fernsteuerung ausschalten</li>
 <li>Steckdosenleiste ausschalten</li>
 <li>CNC zudecken mit grünem Tuch</li>
 </ol>
