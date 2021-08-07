@@ -38,7 +38,6 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 # Werkstück einspannen #
 ### Horizontales einspannen ###
 Hier Text und Bilder einfügen
-[Clamping_Set_44_de_soro_190227.pdf](https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/files/6949045/Clamping_Set_44_de_soro_190227.pdf)
 
 <img src="https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg" width="300" border = "0" alt="Box_12"> 
 
@@ -77,7 +76,7 @@ Hier Text und Bilder einfügen
 
 [Schnittwerteberechnungen](doc/schnittwerte.pdf)
 
-
+[Spann Pratzen Set Teileliste](doc/Pratzen_set.pdf)
 
 ![Estlcam_Referenz](https://user-images.githubusercontent.com/42463588/128347373-f42bae82-09c2-4543-b89c-6ba58a9dd95a.jpg)
 ![Estlcam_Laengenmessung](https://user-images.githubusercontent.com/42463588/128347411-866d27c1-c036-4ef3-9dc0-52e40e1378d3.jpg)
