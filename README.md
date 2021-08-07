@@ -15,47 +15,47 @@ Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) 
 <br><br>
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
-<b>Besonderheit: <i>Nicht vergessen die Batterie in die Fernsteuerung einzusetzen und den silbernen Button in der Mitte zu drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.</i></b>
-<h1>Freigabe mit RFID Chip</h1>
+__Besonderheit: Nicht vergessen die Batterie in die Fernsteuerung einzusetzen und den silbernen Button in der Mitte zu drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.__
+# Freigabe mit RFID Chip #
 Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglieds möglich.
 Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird. Bitte auf das Display achten, es könnte hilfreiche Hinweise liefern.
 <img src="https://user-images.githubusercontent.com/42463588/128074604-47986882-cf10-4fdd-9c07-c87742d69098.jpg" width="300" border = "0" alt="Box_8">
 
-<h1>Estlcam's  &nbsp;&nbsp; <i>CNC Controller V11</i>  &nbsp;&nbsp; öffnen</h1>
+# Estlcam's  &nbsp;&nbsp; <i>CNC Controller V11</i>  &nbsp;&nbsp; öffnen #
 Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<br>
 <img src="https://user-images.githubusercontent.com/42463588/128076185-05e76ea6-103b-4e6b-ade6-b90337c380f4.JPG" width="200" border = "0" alt="Box_9">
 Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick starten. Du erhältst folgenden Startbildschirm:
 <br><br>
 <img src="https://user-images.githubusercontent.com/42463588/128328089-174bd2f8-ad21-4cdb-ae79-928e339b2ae2.jpg" width="400" border = "0" alt="Box_11">
-<h1>Datenträger (USB-Stick) einstecken</h1>
+# Datenträger (USB-Stick) einstecken #
 <img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
 
-<h1>Fräsmotor mit Fernsteuerung bewegen und Fräser montieren</h1>
+# Fräsmotor mit Fernsteuerung bewegen und Fräser montieren #
 
 ![IMG_8780](https://user-images.githubusercontent.com/42463588/128348125-5d4d9360-1c30-4c4d-b63e-a66c643f0467.jpg)
 ![IMG_8782](https://user-images.githubusercontent.com/42463588/128348078-18cc95f4-30d9-426b-b58d-b9d952dc05d4.jpg)
 
 
-<h1>Werkstück einspannen</h1>
-<h2>Horizontales einspannen</h2>
+# Werkstück einspannen #
+## Horizontales einspannen ##
 Hier Text und Bilder einfügen
 <img src="https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg" width="300" border = "0" alt="Box_12"> 
 
 <img width="300" alt="Bildschirmfoto 2021-08-03 um 19 40 27" src="https://user-images.githubusercontent.com/42463588/128348315-10720b31-07db-4886-a029-c2f4f445cf3f.png"> <img width="300" alt="Bildschirmfoto 2021-08-03 um 19 41 06" src="https://user-images.githubusercontent.com/42463588/128348234-1c877c6b-0459-4ba3-af51-481c5ebb7b43.png"> <img width="300" alt="Bildschirmfoto 2021-08-03 um 19 40 59" src="https://user-images.githubusercontent.com/42463588/128348268-16e7ea15-e996-4bef-bb09-265867835e81.png">
 
-<h2>Vertikales einspannen</h2>
+## Vertikales einspannen ##
 
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5"> <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6"> <img src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg" width="300" border = "0" alt="Box_7" >
 
 
 
-<h1>Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen</h1>
+## Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen ##
 
-<h1>Nullpunkt anfahren und Achsen 'nullen'</h1>
+## Nullpunkt anfahren und Achsen 'nullen' ##
 
-<h1>Z-Nullpunkt automatisch mit Sensor ermitteln</h1>
+## Z-Nullpunkt automatisch mit Sensor ermitteln ##
 
-<h1>Fräse runter fahren</h1>
+## Fräse runter fahren ##
 <ol>
 <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
 <li>Programm Estlcam CNC-Steuerung schließen</li>  
