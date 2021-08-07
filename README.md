@@ -37,13 +37,13 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 
 
 # Werkstück einspannen #
-## Horizontales einspannen ##
+### Horizontales einspannen ###
 Hier Text und Bilder einfügen
 <img src="https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg" width="300" border = "0" alt="Box_12"> 
 
 <img width="300" alt="Bildschirmfoto 2021-08-03 um 19 40 27" src="https://user-images.githubusercontent.com/42463588/128348315-10720b31-07db-4886-a029-c2f4f445cf3f.png"> <img width="300" alt="Bildschirmfoto 2021-08-03 um 19 41 06" src="https://user-images.githubusercontent.com/42463588/128348234-1c877c6b-0459-4ba3-af51-481c5ebb7b43.png"> <img width="300" alt="Bildschirmfoto 2021-08-03 um 19 40 59" src="https://user-images.githubusercontent.com/42463588/128348268-16e7ea15-e996-4bef-bb09-265867835e81.png">
 
-## Vertikales einspannen ##
+### Vertikales einspannen ###
 
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5"> <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6"> <img src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg" width="300" border = "0" alt="Box_7" >
 
