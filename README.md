@@ -38,7 +38,7 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 # Werkstück einspannen #
 ### Horizontales einspannen ###
 Hier Text und Bilder einfügen
-![Pratzen_Set](https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/files/6949043/Clamping_Set_44_de_soro_190227.pdf)
+[Clamping_Set_44_de_soro_190227.pdf](https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/files/6949045/Clamping_Set_44_de_soro_190227.pdf)
 
 <img src="https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg" width="300" border = "0" alt="Box_12"> 
 
