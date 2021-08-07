@@ -32,8 +32,7 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 
 # Fräsmotor mit Fernsteuerung bewegen und Fräser montieren #
 
-![IMG_8780](https://user-images.githubusercontent.com/42463588/128348125-5d4d9360-1c30-4c4d-b63e-a66c643f0467.jpg)
-![IMG_8782](https://user-images.githubusercontent.com/42463588/128348078-18cc95f4-30d9-426b-b58d-b9d952dc05d4.jpg)
+![REMOTE](https://user-images.githubusercontent.com/42463588/128599642-06dfa2aa-7fdc-4fdb-a3ca-056b4d05d5d5.jpg)
 
 
 # Werkstück einspannen #
