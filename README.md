@@ -37,7 +37,7 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 
 # Werkstück einspannen #
 ### Horizontales einspannen ###
-Hier Text und Bilder einfügen
+[Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf)
 
 <img src="https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg" width="300" border = "0" alt="Box_12"> 
 
@@ -46,8 +46,6 @@ Hier Text und Bilder einfügen
 ### Vertikales einspannen ###
 
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5"> <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6"> <img src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg" width="300" border = "0" alt="Box_7" >
-
-
 
 ## Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen ##
 
