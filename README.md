@@ -50,7 +50,7 @@ Nach laden der CNC-File: [G-Code & Werkstückdarstellung](doc/Estlcam_Codeanzeig
 
 # Werkstück einspannen #
 ### Horizontales einspannen ###
-[Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf)
+[Spannpratzen Set Teileliste](doc/Pratzen_Set.pdf)
 
 <img src="https://user-images.githubusercontent.com/42463588/128347999-0ca39f10-766b-45a8-beaa-dbfe2bed5d88.jpg" width="300" border = "0" alt="Box_12"> 
 
