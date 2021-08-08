@@ -35,7 +35,7 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 Die X-, Y- und Z-Position des Fräsmotors kann per Fernsteuerung, als auch per Mausklick auf die blauen Richtungspfeile gesteuert werden.<br>
 Jedes Feld und jede Funktion wird ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
 ### Funktionserklärungen ###
-[Achspositionen](doc/Estlcam_Achsen_Pos.pdf)<br>
+[Achspositionen](/doc/Estlcam_Achsen_Pos.pdf)<br>
 [Kommandozeile nutzen](doc/Estlcam_Kommandozeile.pdf)<br>
 [CNC-File öffnen](doc/Estlcam_CNC_Code.pdf)<br>
 [Werkzeuglängenmessung](doc/Estlcam_Laengenmessung.pdf)<br>
