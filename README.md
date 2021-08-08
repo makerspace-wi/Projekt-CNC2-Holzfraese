@@ -44,6 +44,8 @@ Nach laden der CNC-File: [G-Code & Werkstückdarstellung](doc/Estlcam_Codeanzeig
 # Datenträger (USB-Stick) einstecken #
 <img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
 
+Auf dem USB-Stick befindet sich die zu verarbeitende CNC-File. Wurde das Objekt mit Fusion360 designed und dem integrierten CAM-Prozessor der G-Code berechnet, hat die File die Endung .nc (z.B. 'Werkstueck.nc')
+
 # Fräsmotor mit Fernsteuerung bewegen und Fräser montieren #
 
 ![REMOTE](https://user-images.githubusercontent.com/42463588/128599642-06dfa2aa-7fdc-4fdb-a3ca-056b4d05d5d5.jpg)
