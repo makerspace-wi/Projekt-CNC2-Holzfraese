@@ -6,6 +6,9 @@ davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm<br><
 Achtung! - Im ToolsLocker Fach "CNC-Zubehör" befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf))
 
 <img width="400" alt="Box_2" src="https://user-images.githubusercontent.com/42463588/126619607-593ac9c1-d0a9-4283-843b-035fd4263459.jpg"><img width="400" alt="Box_1" src="https://user-images.githubusercontent.com/42463588/126619556-e53ee3de-4409-4855-93c3-0f16d925f3c9.jpg">
+
+[Go to test](#Einschalten)
+
 # Einschalten
 Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem Schalter einschalten:
 <br>
