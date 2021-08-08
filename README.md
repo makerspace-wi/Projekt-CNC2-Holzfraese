@@ -6,7 +6,7 @@ davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm<br><
 Achtung! - Im ToolsLocker Fach "CNC-Zubehör" befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel (Werkzeugwechsel) und ein 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf))
 
 <img width="400" alt="Box_2" src="https://user-images.githubusercontent.com/42463588/126619607-593ac9c1-d0a9-4283-843b-035fd4263459.jpg"><img width="400" alt="Box_1" src="https://user-images.githubusercontent.com/42463588/126619556-e53ee3de-4409-4855-93c3-0f16d925f3c9.jpg">
-# Einschalten #
+# Einschalten
 Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem Schalter einschalten:
 <br>
 <img width="400" alt="Box_3" src="https://user-images.githubusercontent.com/42463588/127311146-514fe918-c521-48f9-8353-5dd8aeab8ffb.jpg">
@@ -16,12 +16,12 @@ Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) 
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
 __Achtung: Nicht vergessen die Fernsteuerung einzuschalten und die große ENTER-Taste drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.__
-# Freigabe mit RFID Chip #
+# Freigabe mit RFID Chip
 Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglieds möglich.
 Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird. Bitte auf das Display achten, es könnte hilfreiche Hinweise liefern.
 <img src="https://user-images.githubusercontent.com/42463588/128074604-47986882-cf10-4fdd-9c07-c87742d69098.jpg" width="300" border = "0" alt="Box_8">
 
-# Estlcam's  &nbsp;&nbsp; <i>CNC Controller V11</i>  &nbsp;&nbsp; öffnen #
+# Estlcam's  &nbsp;&nbsp; _CNC Controller V11_  &nbsp;&nbsp; öffnen #
 Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<br>
 <img src="https://user-images.githubusercontent.com/42463588/128076185-05e76ea6-103b-4e6b-ade6-b90337c380f4.JPG" width="200" border = "0" alt="Box_9">
 Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick starten. Du erhältst folgenden Startbildschirm:
@@ -64,7 +64,7 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 <li>Steckdosenleiste ausschalten</li>
 <li>CNC zudecken mit grünem Tuch</li>
 </ol>
-<h1>Weiterführende Dokumentationen</h1>
+# Weiterführende Dokumentationen #
 
 [Rampa Muffen Einbau](doc/RampaMuffen%20Einbau.pdf)
 
