@@ -24,7 +24,7 @@ Die Nutzung der CNC-Fräse ist nur nach Einweisung und Freischaltung des Mitglie
 Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung bestätigt wird. Bitte auf das Display achten, es könnte hilfreiche Hinweise liefern.
 <img src="https://user-images.githubusercontent.com/42463588/128074604-47986882-cf10-4fdd-9c07-c87742d69098.jpg" width="300" border = "0" alt="Box_8">
 
-# Estlcam's  &nbsp;&nbsp; _CNC Controller V11_  &nbsp;&nbsp; öffnen #
+# Estlcams CNC Controller V11 starten
 Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<br>
 <img src="https://user-images.githubusercontent.com/42463588/128076185-05e76ea6-103b-4e6b-ade6-b90337c380f4.JPG" width="200" border = "0" alt="Box_9">
 
@@ -64,6 +64,14 @@ Nach laden der CNC-File: [G-Code & Werkstückdarstellung](doc/Estlcam_Codeanzeig
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5"> <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6"> <img src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg" width="300" border = "0" alt="Box_7" >
 
 ## Fräsprojekt  Ablauf ##
+
+* Fräse und Zubehör einschalten und mit RFID-Chip anmelden
+   * [Einschalten](#Einschalten)
+   * [Einloggen](#Freigabe-mit-RFID-Chip)
+* Programm CNC Controller V11 starten
+   * [Einloggen](#Estlcams-CNC-Controller-V11-starten)
+* Referenzfahrt
+   * [Referenzfahrt](#Freigabe-mit-RFID-Chip)
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
     * aaa
 * Nullpunkt anfahren und Achsen 'nullen'
