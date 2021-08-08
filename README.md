@@ -64,7 +64,8 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 <li>Steckdosenleiste ausschalten</li>
 <li>CNC zudecken mit grünem Tuch</li>
 </ol>
-# Weiterführende Dokumentationen #
+
+## Weiterführende Dokumentationen
 
 [Rampa Muffen Einbau](doc/RampaMuffen%20Einbau.pdf)
 
