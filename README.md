@@ -5,6 +5,9 @@ und der Weiterentwicklung nach CNC14 (cnc14.de), mit einer Arbeitsfläche von 60
 davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm<br><br>
 Achtung! - Im ToolsLocker Fach "CNC-Zubehör" befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf))
 
+__HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
+Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen. In diesem Fall die 'F11' Taste drücken und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
+
 <img width="400" alt="Box_2" src="https://user-images.githubusercontent.com/42463588/126619607-593ac9c1-d0a9-4283-843b-035fd4263459.jpg"><img width="400" alt="Box_1" src="https://user-images.githubusercontent.com/42463588/126619556-e53ee3de-4409-4855-93c3-0f16d925f3c9.jpg">
 
 # Einschalten
