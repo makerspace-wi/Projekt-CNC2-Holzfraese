@@ -36,7 +36,7 @@ Die X-, Y- und Z-Position des Fräsmotors kann per Fernsteuerung, als auch per M
 Jedes Feld und jede Funktion wird ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
 ### Funktionserklärungen ###
 [Achspositionen](/doc/Estlcam_Achsen_Pos.jpg)<br>
-[Kommandozeile nutzen](doc/Estlcam_Kommandozeile.jpg<br>
+[Kommandozeile nutzen](doc/Estlcam_Kommandozeile.jpg)<br>
 [CNC-File öffnen](doc/Estlcam_CNC_Code.jpg)<br>
 [Werkzeuglängenmessung](doc/Estlcam_Laengenmessung.jpg)<br>
 [Referenzfahrt](doc/Estlcam_Referenz.jpg)<br>
