@@ -25,9 +25,21 @@ Dazu bitte den roten RFID-Chip vor dem Lesegerät bewegen, bis die Aktivierung b
 Zwischenzeitlich sollte der Mini-PC hochgefahren sein und den 'Desktop' zeigen.<br>
 <img src="https://user-images.githubusercontent.com/42463588/128076185-05e76ea6-103b-4e6b-ade6-b90337c380f4.JPG" width="200" border = "0" alt="Box_9">
 
-Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick starten. Du erhältst folgenden Startbildschirm:
+Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick starten - du erhältst folgenden Startbildschirm:
 <br><br>
 <img src="https://user-images.githubusercontent.com/42463588/128328089-174bd2f8-ad21-4cdb-ae79-928e339b2ae2.jpg" width="400" border = "0" alt="Box_11">
+
+Die X-, Y- und Z-Position des Fräsmotors kann per Fernsteuerung, als auch per Mausklick auf die blauen Richtungspfeile gesteuert werden.<br>
+Jedes Feld und jede Funktion wird ausführlich erklärt, wenn man den Mauszeiger darüber positioniert.
+### Funktionserklärungen ###
+[Achspositionen](doc/Estlcam_Achsen_Pos.pdf)<br>
+[Kommandozeile nutzen](doc/Estlcam_Kommandozeile.pdf)<br>
+[CNC-File öffnen](doc/Estlcam_CNC_Code.pdf)<br>
+[Werkzeuglängenmessung](doc/Estlcam_Laengenmessung.pdf)<br>
+[Referenzfahrt](doc/Estlcam_Referenz.pdf)<br>
+
+Nach laden der CNC-File: [G-Code & Werkstückdarstellung](doc/Estlcam_Codeanzeige.pdf)
+
 # Datenträger (USB-Stick) einstecken #
 <img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
 
@@ -54,6 +66,9 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 
 ## Z-Nullpunkt automatisch mit Sensor ermitteln ##
 
+<img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
+
+
 ## Fräse runter fahren ##
 <ol>
 <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
@@ -78,15 +93,7 @@ Dort dann das Programm &nbsp;<i>CNC Controller V11</i> &nbsp; mit Doppelklick st
 
 [Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf)
 
-![Estlcam_Referenz](https://user-images.githubusercontent.com/42463588/128347373-f42bae82-09c2-4543-b89c-6ba58a9dd95a.jpg)
-![Estlcam_Laengenmessung](https://user-images.githubusercontent.com/42463588/128347411-866d27c1-c036-4ef3-9dc0-52e40e1378d3.jpg)
-![Estlcam_CNC_Code](https://user-images.githubusercontent.com/42463588/128347443-033c6b04-82f4-400e-b7df-23230c7b592d.jpg)
-![Estlcam_Achsen_Pos](https://user-images.githubusercontent.com/42463588/128347475-c0c737aa-9804-471e-a526-4fa95f476b5e.jpg)
-![Estlcam_Kommandozeile](https://user-images.githubusercontent.com/42463588/128347515-6780da44-d2ad-43c4-aca1-5ebfb38f7c5a.jpg)
-![Estlcam_Codeanzeige](https://user-images.githubusercontent.com/42463588/128347561-20f2ea40-955c-4661-aede-9a7618008efe.jpg)
-
 ----
 
-![IMG_8785](https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg "Das ist der Titel")
 
 
