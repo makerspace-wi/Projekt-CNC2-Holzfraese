@@ -2,16 +2,19 @@
 
 <img width="400" alt="Box_2" src="https://user-images.githubusercontent.com/42463588/126619607-593ac9c1-d0a9-4283-843b-035fd4263459.jpg"> <img width="400" alt="Box_1" src="https://user-images.githubusercontent.com/42463588/126619556-e53ee3de-4409-4855-93c3-0f16d925f3c9.jpg">
 
+# Vorworte
 Es handelt sich dabei um eine <b>CNC-Sperrholz-Fräse</b> aus dem Make(CT Hacks) Magazin 1/2014 
 und der Weiterentwicklung nach CNC14 (cnc14.de), mit einer Arbeitsfläche von 600mm x 1200mm, 
-davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm<br><br>
-Achtung! - Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf))
-
-__HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
-Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen. In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
-
-### EINWEISUNGEN
+davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm
+### Einweisungen
 Die CNC2-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Für die Einweisung planen wir den Entwurf eines kleinen 3D-Objekts mit Fusion360 und dem 'post processing' mit dem integrierten CAM-Modul von Fusion360.<br>Danach geht es an die Maschine, um die Fräse kennen zu lernen und das gemeinsam entworfene Objekt zu fräsen.
+### ToolsLocker
+Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf))<p>
+Bitte immer sicherstellen, dass nach der Arbeit alles - komplett - zurückgestellt wird.
+### __HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
+Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
+
+
 
 # Einschalten
 Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem Schalter einschalten:
