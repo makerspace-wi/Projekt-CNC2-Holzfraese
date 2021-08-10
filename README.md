@@ -13,8 +13,24 @@ Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ei
 Bitte immer sicherstellen, dass nach der Arbeit alles - komplett - zurückgestellt wird.
 ### __HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
 Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
+- - - -
+## Typischer Fräsprojekt Ablauf ##
 
+* Fräse und Zubehör einschalten und mit RFID-Chip anmelden
+   * [Einschalten](#Einschalten)
+   * [Einloggen](#Freigabe-mit-RFID-Chip)
+* Programm CNC Controller V11 starten
+   * [Einloggen](#Estlcams-CNC-Controller-V11-starten)
+* Referenzfahrt
+   * [Referenzfahrt](#Freigabe-mit-RFID-Chip)
+* Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
+    * aaa
+* Nullpunkt anfahren und Achsen 'nullen'
+    * bbb
+    * ccc  
+* Z-Nullpunkt automatisch mit Sensor ermitteln
 
+<img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
 
 # Einschalten
 Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem Schalter einschalten:
@@ -74,23 +90,7 @@ Auf dem USB-Stick befindet sich die zu verarbeitende CNC-File. Wurde das Objekt 
 
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5"> <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6"> <img src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg" width="300" border = "0" alt="Box_7" >
 
-## Fräsprojekt  Ablauf ##
 
-* Fräse und Zubehör einschalten und mit RFID-Chip anmelden
-   * [Einschalten](#Einschalten)
-   * [Einloggen](#Freigabe-mit-RFID-Chip)
-* Programm CNC Controller V11 starten
-   * [Einloggen](#Estlcams-CNC-Controller-V11-starten)
-* Referenzfahrt
-   * [Referenzfahrt](#Freigabe-mit-RFID-Chip)
-* Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
-    * aaa
-* Nullpunkt anfahren und Achsen 'nullen'
-    * bbb
-    * ccc  
-* Z-Nullpunkt automatisch mit Sensor ermitteln
-
-<img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
 
 
 ## Fräse runter fahren (ausschalten)
