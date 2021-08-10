@@ -13,7 +13,9 @@ Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ei
 Bitte immer sicherstellen, dass nach der Arbeit alles - komplett - zurückgestellt wird.
 ### __HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
 Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
-- - - -
+  
+----
+  
 ## Typischer Fräsprojekt Ablauf ##
 
 * Fräse und Zubehör einschalten und mit RFID-Chip anmelden
@@ -32,7 +34,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
 
 <img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
   
-- - - -
+----
   
 # Einschalten
 Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem Schalter einschalten:
