@@ -103,6 +103,7 @@ Auf dem USB-Stick befindet sich die zu verarbeitende CNC-File. Wurde das Objekt 
 
 ### Spannzangen ###
 ![IMG_8818](https://user-images.githubusercontent.com/42463588/129184681-d41899d7-4912-49a2-9a02-be3acaca4dcb.jpg)
+Bestand am 12.08.2021: Spannzangenset (1 x 3mm, 1 x 3,175mm, 2 x 4mm, 1 x 5mm, 2 x 6mm, 1 x 8mm) und 4 Überwurfmuttern
   
 ## Fräse runter fahren (ausschalten)
 <ol>
