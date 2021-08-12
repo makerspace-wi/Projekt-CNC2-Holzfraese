@@ -110,7 +110,10 @@ Bestand am 12.08.2021:<br>Spannzangenset für folgende Schaftdurchmesser: 1 x 3m
 <img src="https://user-images.githubusercontent.com/42463588/129193501-23b1e0ee-7be5-4313-85db-652f2644a2e0.jpg" width="300" border = "0" alt="Spin_1" > <img src="https://user-images.githubusercontent.com/42463588/129193540-4cce49d8-bcd4-492c-9d8d-f17a5b66a61e.jpg" width="300" border = "0" alt="Spin_2" >
   
 Die Spindelgeschwindigkeit wird direkt durch das Rändelrat am Fräsmotor eingestellt. Sie hängt ab vom zu bearbeiteten Material und genutzten Fräser.
+  
+[Fräserauswahl](/images/fraeser_verwendung_schaftfraeser.png)<br>
 [Schnittwerteberechnungen](doc/schnittwerte.pdf)
+
   
 ## Fräse runter fahren (ausschalten)
 <ol>
