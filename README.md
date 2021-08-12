@@ -101,8 +101,9 @@ Auf dem USB-Stick befindet sich die zu verarbeitende CNC-File. Wurde das Objekt 
 <img src="https://user-images.githubusercontent.com/42463588/127312994-6e0c8802-4759-4f5c-81bd-af389516bfb8.jpg" width="300" border = "0" alt="Box_5"> <img src="https://user-images.githubusercontent.com/42463588/127313679-64bd7a75-b21e-49f5-abad-8df5950e09c4.jpg" width="300" border = "0" alt="Box_6"> <img src="https://user-images.githubusercontent.com/42463588/127313493-08838aa2-08c9-4748-abaf-e10df9ba130d.jpg" width="300" border = "0" alt="Box_7" >
 
 
-
-
+### Spannzangen ###
+![IMG_8818](https://user-images.githubusercontent.com/42463588/129184681-d41899d7-4912-49a2-9a02-be3acaca4dcb.jpg)
+  
 ## Fräse runter fahren (ausschalten)
 <ol>
 <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
