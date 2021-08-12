@@ -48,7 +48,7 @@ Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) 
 <br><br>
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
 
-__Achtung: Nicht vergessen die Fernsteuerung einzuschalten und die große ENTER-Taste drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.__
+__Achtung: Nicht vergessen die große ENTER-Taste drücken! Die Fernsteuerung baut dann die Verbindung mit dem Mini-Computer auf.__
 
 ![REMOTE](https://user-images.githubusercontent.com/42463588/128599642-06dfa2aa-7fdc-4fdb-a3ca-056b4d05d5d5.jpg)
   
