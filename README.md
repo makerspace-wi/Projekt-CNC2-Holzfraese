@@ -28,6 +28,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
    * [Programm starten](#Estlcams-CNC-Controller-V11-starten)
 * [Referenzfahrt ausführen](doc/Estlcam_Referenz.jpg)
 * Fräser montieren  
+* Werkstück auf Arbeitsfläche einspannen  
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
     * aaa
 * Nullpunkt anfahren und Achsen 'nullen'
