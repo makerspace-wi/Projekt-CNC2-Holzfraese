@@ -9,10 +9,10 @@ davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm
 ### Einweisungen
 Die CNC2-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Für die Einweisung planen wir den Entwurf eines kleinen 3D-Objekts mit Fusion360 und dem 'post processing' mit dem integrierten CAM-Modul von Fusion360.<br>Danach geht es an die Maschine, um die Fräse kennen zu lernen und das gemeinsam entworfene Objekt zu fräsen.
 ### ToolsLocker
-Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf))<p>
+Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Tastatur, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel 15er & 17er (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf)), Pinsel,  4 x Überwurfmutter, Spannzangenset (1 x 3mm, 1 x 3,175mm, 2 x 4mm, 1 x 5mm, 2 x 6mm, 1 x 8mm) und Anleitung für den Spänesauger<p>
 Bitte immer sicherstellen, dass nach der Arbeit alles - komplett - zurückgestellt wird.
   
-<src="https://user-images.githubusercontent.com/42463588/129173707-4acb66d5-490d-45fb-bf54-a5bc99593962.jpg" width="300" border = "0" alt="ToolsLockerbox">
+<img src="https://user-images.githubusercontent.com/42463588/129173707-4acb66d5-490d-45fb-bf54-a5bc99593962.jpg" width="300" border = "0" alt="ToolsLockerbox">
   
 ### __HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
 Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
