@@ -13,15 +13,16 @@ Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ei
 Bitte immer sicherstellen, dass nach der Arbeit alles - komplett - zurückgestellt wird.
   
 <img src="https://user-images.githubusercontent.com/42463588/129173707-4acb66d5-490d-45fb-bf54-a5bc99593962.jpg" width="300" border = "0" alt="ToolsLockerbox">
-  
-### __HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
-Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
-  
+
 ### Thema Fräser ###
 Jeder Nutzer der Fräse sollte sich einen eignen Satz (Holz) Fräser anschaffen, vielleicht auch mit jemandem teilen.<br>
 Wir empfehlen einen Satz zweischneidiger Flach-Schaftfräser mit den Durchmessern 3mm, 4mm, 6mm und 8mm - ggf. in 2 Schnittlängen. Vielleicht auch einen Gravierfräser<br>
 Bezugsquelle(n): https://www.sorotec.de/shop/Zerspanungswerkzeuge/sorotec-werkzeuge/2-schneider/Schaftfraeser-HOLZ/
   
+### __HILFE! - Ich habe eine Achse in den Endstop gefahren__ :scream:<br>
+Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofort alle Bewegungen gesperrt und am unteren Rand des Bildschirms wird auch darauf hingewiesen (in roter Schrift & blinkend). In diesem Fall die 'F11' Taste gedrückt halten und die betroffene Achse manuell aus dem Endstopp fahren - danach ist die Welt wieder in Ordnung.
+  
+
 ----
   
 ## Typischer Fräsprojekt Ablauf ##
