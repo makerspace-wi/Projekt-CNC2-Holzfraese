@@ -41,6 +41,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
 * Werkstück auf Arbeitsfläche einspannen 
   * [horizontales Spannen](#Horizontales-einspannen)
   * [vertikales Spannen](#Vertikales-einspannen)
+* Spindelgeschwindigkeit einstellen  
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
     * aaa
 * Nullpunkt anfahren und Achsen 'nullen'
