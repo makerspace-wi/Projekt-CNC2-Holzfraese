@@ -46,9 +46,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   * [Spindelgeschwindigkeit](#Spindelgeschwindigkeit)
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
   * [USB-Stick mit File einstecken](#Datenträger-(USB-Stick)-einstecken)
-  
-  <img src="https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/blob/main/doc/Estlcam_CNC_Code.jpg" width="300" border = "0" alt="OpenFile">
-    * aaa
+  * zu bearbeitende File auswählen
 * Nullpunkt anfahren und Achsen 'nullen'
     * bbb
     * ccc  
