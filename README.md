@@ -46,7 +46,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   * [Spindelgeschwindigkeit](#Spindelgeschwindigkeit)
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
   * [USB-Stick mit File einstecken](#Datenträger-einstecken)
-  * zu bearbeitende File auswählen
+  * zu bearbeitende File auswählen (Estlcam Bildschirm rechts/oben)
   * [Bildschirmdarstellung](doc/Estlcam_Codeanzeige.jpg)
 * Nullpunkt anfahren und Achsen 'nullen'
     * bbb
