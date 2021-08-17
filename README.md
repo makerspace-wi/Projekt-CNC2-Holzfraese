@@ -33,7 +33,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
    * [Einloggen](#Freigabe-mit-RFID-Chip)
 * Programm CNC Controller V11 starten
    * [Programm starten](#Estlcams-CNC-Controller-V11-starten)
-* [Referenzfahrt ausführen](doc/Estlcam_Referenz.jpg)
+* [Referenzfahrt ausführen](doc/Estlcam_Referenz.jpg) - es wird der Maschinennullpunkt ermittelt
 * Fräser montieren  
 * Werkstück auf Arbeitsfläche einspannen  
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
