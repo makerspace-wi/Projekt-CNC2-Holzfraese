@@ -49,8 +49,8 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   * zu bearbeitende File auswählen (Estlcam Bildschirm rechts/oben)
   * [Bildschirmdarstellung](doc/Estlcam_Codeanzeige.jpg)
 * Nullpunkt anfahren und Achsen 'nullen'
-    * bbb
-    * ccc  
+    * Fräser manuell direkt auf den Werkstücknullpunkt positionieren - der Fräser muss nicht das Werkstück berühren
+    * Alle Achsen NULLEN - z.B. mit mittlerem Maus-Button oder Maus Links Klick oder in der Estlcam Kommandozeile mit Befehl 'NULL' 
 * Z-Nullpunkt automatisch mit Sensor ermitteln
   
   <img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
