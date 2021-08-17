@@ -45,7 +45,8 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   * Die Geschwindigkeit lässt sich mittels einem Rändelrad direkt am Motor einstellen. Die Positionen 1 bis 6 entsprechen 5.000 bis 25.000 U/min. D.h. die maximale Geschwindigkeit ist 25.000 Umdrehungen pro Minute und passt im allgemeinen für alle Holzarbeiten. Zur Berechnung der Vorschubgeschwindigkeit muss dann auch dieser Wert genommen werden.
   * [Spindelgeschwindigkeit](#Spindelgeschwindigkeit)
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
-  * [USB-Stick mit File einstecken](## Datenträger-(USB-Stick)-einstecken)
+  * [USB-Stick mit File einstecken](#Datenträger-(USB-Stick)-einstecken)
+  
   <img src="https://github.com/makerspace-wi/Projekt-CNC2-Holzfraese/blob/main/doc/Estlcam_CNC_Code.jpg" width="300" border = "0" alt="OpenFile">
     * aaa
 * Nullpunkt anfahren und Achsen 'nullen'
