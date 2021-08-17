@@ -38,7 +38,9 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   * Fräsmotor mittels Fernsteuerung, Maus oder Direkteingabe an eine geeignete Position fahren
   * passende Spannzange und Überwurfmutter aus der Zubehörbox entnehmen und in den Spindelmotor einsetzen (leicht andrehen) [Spannzangen](#Spannzangen)
   * Fräser tief genug einsetzen und dann mit den beiden Schraubenschlüssel die Überwurfmutter spannen
-* Werkstück auf Arbeitsfläche einspannen  
+* Werkstück auf Arbeitsfläche einspannen 
+  * [horizontales Spannen](#Horizontales-einspannen)
+  * [vertikales Spannen](#Vertikales-einspannen)
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
     * aaa
 * Nullpunkt anfahren und Achsen 'nullen'
