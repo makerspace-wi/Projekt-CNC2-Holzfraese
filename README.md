@@ -47,6 +47,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
   * [USB-Stick mit File einstecken](#Datenträger-einstecken)
   * zu bearbeitende File auswählen
+  * [Bildschirmdarstellung](doc/Estlcam_Codeanzeige.jpg)
 * Nullpunkt anfahren und Achsen 'nullen'
     * bbb
     * ccc  
