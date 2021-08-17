@@ -48,10 +48,11 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
     * bbb
     * ccc  
 * Z-Nullpunkt automatisch mit Sensor ermitteln
+  <img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
 * Absauge einschalten
 * Fräsvorgang starten
 
-<img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
+
   
 ----
   
