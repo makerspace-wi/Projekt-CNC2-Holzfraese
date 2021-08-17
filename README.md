@@ -45,7 +45,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   * Die Geschwindigkeit lässt sich mittels einem Rändelrad direkt am Motor einstellen. Die Positionen 1 bis 6 entsprechen 5.000 bis 25.000 U/min. D.h. die maximale Geschwindigkeit ist 25.000 Umdrehungen pro Minute und passt im allgemeinen für alle Holzarbeiten. Zur Berechnung der Vorschubgeschwindigkeit muss dann auch dieser Wert genommen werden.
   * [Spindelgeschwindigkeit](#Spindelgeschwindigkeit)
 * Zu verarbeitende File mit Estlcam CNC-Steuerung öffnen
-  * [USB-Stick mit File einstecken](#Datenträger-(USB-Stick)-einstecken)
+  * [USB-Stick mit File einstecken](#Datenträger-einstecken)
   * zu bearbeitende File auswählen
 * Nullpunkt anfahren und Achsen 'nullen'
     * bbb
@@ -99,7 +99,7 @@ Jedes Feld und jede Funktion wird ausführlich erklärt, wenn man den Mauszeiger
 
 Nach laden der CNC-File: [G-Code & Werkstückdarstellung](doc/Estlcam_Codeanzeige.jpg)
 
-# Datenträger (USB-Stick) einstecken #
+# Datenträger einstecken #
 <img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
 
 Auf dem USB-Stick befindet sich die zu verarbeitende CNC-File. Wurde das Objekt mit Fusion360 designed und dem integrierten CAM-Prozessor der G-Code berechnet, hat die File die Endung .nc (z.B. 'Werkstueck.nc')
