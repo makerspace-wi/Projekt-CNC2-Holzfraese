@@ -71,7 +71,7 @@ Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) 
   
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
   
-___ComputerMaus einschalten.___
+__Computer-Maus einschalten.__
   
 __Achtung: Nicht vergessen die große ENTER-Taste (rechts/unten) der Fernsteuerung zu drücken! Sie baut dann die Verbindung mit dem Mini-Computer auf.__
   
