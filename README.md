@@ -68,13 +68,13 @@ Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem 
 <br><br>
 Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) - diesen für 1 sec drücken, bis die rote LED dauerhaft brennt, der Computer bootet dann (Intel erscheint nach einigen sec auf dem Bildschirm).
 <br><br>
-__ComputerMaus einschalten.___
+  
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
-
+  
+___ComputerMaus einschalten.___
+  
 __Achtung: Nicht vergessen die große ENTER-Taste (rechts/unten) der Fernsteuerung zu drücken! Sie baut dann die Verbindung mit dem Mini-Computer auf.__
   
- 
-
 ![REMOTE](https://user-images.githubusercontent.com/42463588/128599642-06dfa2aa-7fdc-4fdb-a3ca-056b4d05d5d5.jpg)
   
 # Freigabe mit RFID Chip
