@@ -28,6 +28,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   
 ## Typischer Fräsprojekt Ablauf ##
 
+* Zubehör aus ToolsLocker holen
 * Fräse einschalten und mit RFID-Chip anmelden
    * [Einschalten](#Einschalten)
    * [Einloggen](#Freigabe-mit-RFID-Chip)
@@ -60,13 +61,14 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   
 ## Fräse runter fahren (ausschalten)
 <ol>
-<li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
-<li>Programm Estlcam CNC-Steuerung schließen</li>  
-<li>PC herunterfahren</li>
-<li>Computer-Maus ausschalten</li>
-<li>Am Zugangsgerät abmelden</li> 
-<li>Steckdosenleiste ausschalten</li>
-<li>CNC zudecken mit grünem Tuch</li>
+  <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
+  <li>Programm Estlcam CNC-Steuerung schließen</li>  
+  <li>PC herunterfahren</li>
+  <li>Computer-Maus ausschalten</li>
+  <li>Am Zugangsgerät abmelden</li> 
+  <li>Steckdosenleiste ausschalten</li>
+  <li>CNC zudecken mit grünem Tuch</li>
+  <li>Zubehör zurück in den ToolsLocker</li>
 </ol>  
 
   
