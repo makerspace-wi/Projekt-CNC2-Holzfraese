@@ -146,6 +146,7 @@ Die Spindelgeschwindigkeit wird direkt durch das Rändelrad am Fräsmotor einges
 <li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
 <li>Programm Estlcam CNC-Steuerung schließen</li>  
 <li>PC herunterfahren</li>
+<li>Computer-Maus ausschalten</li>
 <li>Am Zugangsgerät abmelden</li> 
 <li>Steckdosenleiste ausschalten</li>
 <li>CNC zudecken mit grünem Tuch</li>
