@@ -28,7 +28,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
   
 ## Typischer Fräsprojekt Ablauf ##
 
-* Zubehör aus ToolsLocker holen
+* [Zubehör aus ToolsLocker holen](#ToolsLocker)
 * Fräse einschalten und mit RFID-Chip anmelden
    * [Einschalten](#Einschalten)
    * [Einloggen](#Freigabe-mit-RFID-Chip)
