@@ -57,6 +57,17 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
 * Absauge einschalten
 * Fräsvorgang starten
 
+  
+## Fräse runter fahren (ausschalten)
+<ol>
+<li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
+<li>Programm Estlcam CNC-Steuerung schließen</li>  
+<li>PC herunterfahren</li>
+<li>Computer-Maus ausschalten</li>
+<li>Am Zugangsgerät abmelden</li> 
+<li>Steckdosenleiste ausschalten</li>
+<li>CNC zudecken mit grünem Tuch</li>
+</ol>  
 
   
 ----
@@ -141,16 +152,7 @@ Die Spindelgeschwindigkeit wird direkt durch das Rändelrad am Fräsmotor einges
 [Schnittwerteberechnungen](doc/schnittwerte.pdf)
 
   
-## Fräse runter fahren (ausschalten)
-<ol>
-<li>Per 'Referenzfahrt' den Fräsmotor nach links/oben bringen</li>
-<li>Programm Estlcam CNC-Steuerung schließen</li>  
-<li>PC herunterfahren</li>
-<li>Computer-Maus ausschalten</li>
-<li>Am Zugangsgerät abmelden</li> 
-<li>Steckdosenleiste ausschalten</li>
-<li>CNC zudecken mit grünem Tuch</li>
-</ol>
+
 
 ## Weiterführende Dokumentationen
 
