@@ -34,7 +34,7 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
    * [Einloggen](#Freigabe-mit-RFID-Chip)
 * Programm CNC Controller V11 starten
    * [Programm starten](#Estlcams-CNC-Controller-V11-starten)
-* [Referenzfahrt ausführen](doc/Estlcam_Referenz.jpg) - es wird der Maschinennullpunkt ermittelt
+* [Referenzfahrt ausführen](doc/Estlcam_Referenz.jpg) - es wird der Maschinennullpunkt ermittelt [Fraese sollte an Referenzpunkt stehen]
 * Fräser montieren  
   * Fräsmotor mittels Fernsteuerung, Maus oder Direkteingabe an eine geeignete Position fahren
   * passende Spannzange und Überwurfmutter aus der Zubehörbox entnehmen und in den Spindelmotor einsetzen (leicht andrehen) [Spannzangen](#Spannzangen)
@@ -79,11 +79,12 @@ Hinter der Fräse befindet sich eine Steckdosenleiste mit Schalter - mit diesem 
 
 <img width="400" alt="Box_3" src="https://user-images.githubusercontent.com/42463588/127311146-514fe918-c521-48f9-8353-5dd8aeab8ffb.jpg">
 <br><br>
-Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) - diesen für 1 sec drücken, bis die rote LED dauerhaft brennt, der Computer bootet dann (Intel erscheint nach einigen sec auf dem Bildschirm).
+Der Kleincomputer hat seitlich links einen Ein/Aus-Taster (blaue Kennzeichnung) - diesen für 1 sec drücken, bis die rote LED dauerhaft brennt (Wenn nötig wiederholen bis rote LED dauerhaft brennt), der Computer bootet dann (Intel erscheint nach einigen sec auf dem Bildschirm). 
 <br><br>
   
 <img src="https://user-images.githubusercontent.com/42470750/127994776-5172ce66-92b8-4142-9e16-ca7e70df221d.jpg">
   
+__Tastatur und Maus und Frenbedinung  auf Brett bereit legen.__
 __Computer-Maus einschalten.__
   
 __Achtung: Nicht vergessen die große ENTER-Taste (rechts/unten) der Fernsteuerung zu drücken! Sie baut dann die Verbindung mit dem Mini-Computer auf.__
@@ -116,7 +117,7 @@ Jedes Feld und jede Funktion wird ausführlich erklärt, wenn man den Mauszeiger
 
 Nach laden der CNC-File: [G-Code & Werkstückdarstellung](doc/Estlcam_Codeanzeige.jpg)
 
-# Datenträger einstecken #
+# Datenträger einstecken {Laufwerk E}#
 <img src="https://user-images.githubusercontent.com/42463588/128076473-a8692cfa-2d47-4370-b53b-c83a559315cd.jpg" width="300" border = "0" alt="Box_10">
 
 Auf dem USB-Stick befindet sich die zu verarbeitende CNC-File. Wurde das Objekt mit Fusion360 designed und dem integrierten CAM-Prozessor der G-Code berechnet, hat die File die Endung .nc (z.B. 'Werkstueck.nc')
