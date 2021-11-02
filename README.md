@@ -7,7 +7,10 @@ Es handelt sich dabei um eine <b>CNC-Sperrholz-Fräse</b> aus dem Make(CT Hacks)
 und der Weiterentwicklung nach CNC14 (cnc14.de), mit einer Arbeitsfläche von 600mm x 1200mm, 
 davon einer Fräsefläche von 550mm x 900mm und einer Verfahrhöhe von 70mm
 ### Einweisungen
-Die CNC2-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Für die Einweisung planen wir den Entwurf eines kleinen 3D-Objekts mit Fusion360 und dem 'post processing' mit dem integrierten CAM-Modul von Fusion360.<br>Danach geht es an die Maschine, um die Fräse kennen zu lernen und das gemeinsam entworfene Objekt zu fräsen.
+Die CNC2-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist am Anfang sehr komplex, daher sollte unbedingt ein Projekt vorhanden sein und die Einweisung erfolgt daher auch in zwei Teilen.
+- Der erste Teil besteht aus Vorführung der Fräse mit Erklärung über das vorhandene Projekt.
+- Beim zweiten Teile fräst der Benutzer sein eigenes Projekt und wird dabei von dem Einweiser unterstützt.
+
 ### [ToolsLocker](https://github.com/makerspace-wi/ToolsLocker/wiki)
 Im ToolsLocker Fach "CNC-Zubehör" (Freischaltung erforderlich) befindet sich ein Zubehörbehälter für die CNC2, bestehend aus: Computer Maus, Tastatur, Fernsteuerung, Werkzeughöhensensor, 2 Schraubenschlüssel 15er & 17er (Werkzeugwechsel) und einem 44teiliges Sorotec Stufenspannpratzenset M6 für 6er Nut ([Spann Pratzen Set Teileliste](doc/Pratzen_Set.pdf)), Pinsel,  4 x Überwurfmutter, Spannzangenset (1 x 3mm, 1 x 3,175mm, 2 x 4mm, 1 x 5mm, 2 x 6mm, 1 x 8mm) und Anleitung für den Spänesauger<p>
 Bitte immer sicherstellen, dass nach der Arbeit alles - komplett - zurückgestellt wird.
