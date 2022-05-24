@@ -59,6 +59,13 @@ Wenn dies passiert ist - bitte einfach die Ruhe bewahren! Die Software hat sofor
 * Z-Nullpunkt automatisch mit Sensor ermitteln
   
   <img src="https://user-images.githubusercontent.com/42463588/128348039-859f8c6a-bd0f-4af7-ab58-33d2fa53a9ae.jpg" width="300" border = "0" alt="Sensor">
+
+* Sensortest
+#  !!! vor dem Benutzen des Sensors testen ob er funktioniert !!!:
+      Testplatte an den Fräser (Gewind, Überwurfmutter) halten,
+                 wenn der Sensor auslöst (... F11 blinkt) mit F11 bestätigen, alles ok.
+#                wenn der Sensor nicht auslöst (... F11 nicht sichtbar) ist es nur manuell möglich den Nullpunkt einzustellen!!!
+  
 * Absauge einschalten
 * Fräsvorgang starten
 
